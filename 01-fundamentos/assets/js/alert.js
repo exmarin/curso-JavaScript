@@ -1,0 +1,1 @@
+alert('Hola Mundo'); // This is a global function that is available in the browser
